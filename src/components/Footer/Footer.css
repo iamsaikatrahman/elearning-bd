@@ -1,0 +1,18 @@
+.footer-container {
+  padding: 50px 0;
+  background-color: rgb(215 223 231);
+}
+
+.footer-container h4 {
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+.footer-container p {
+  font-weight: 600;
+}
+.footer-input-box {
+  outline: none;
+  border: 2px solid #197bc6;
+  border-radius: 5px;
+  padding: 5px;
+}

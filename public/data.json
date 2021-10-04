@@ -1,0 +1,307 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "name": "Speak English Better with Natives and Abroad",
+        "thumbnail": "https://d201g1c8t1ay3d.cloudfront.net/wp-content/uploads/2018/10/english-language-courses-uk-1.jpg",
+        "shortDes": "How to Solve Communication Problems in Real Time: Natives that Speak Fast, Vocabulary, Phrasal Verbs, Idioms, Numbers",
+        "price": 25.99,
+        "rating": 4.3,
+        "createdBy": [
+          "Joshua"
+        ],
+        "student": "533",
+        "duration": 1,
+        "skillLevel": "Intermediate",
+        "lectures": 19
+      },
+      {
+        "id": 2,
+        "name": "Learn Business English (Professional Language)",
+        "thumbnail": "https://i.pinimg.com/originals/d4/cc/5c/d4cc5c416bc41c24511eb0a104d4c268.png",
+        "shortDes": "Business English Language for Professional Communication at Work, in Meetings, Interviews, Negotiations, Email and More!",
+        "price": 24.99,
+        "rating": 4.6,
+        "createdBy": [
+          "Gabriel Wallace"
+        ],
+        "student": "5,813",
+        "duration": 4,
+        "skillLevel": "All Levels",
+        "lectures": 24
+      },
+      {
+        "id": 3,
+        "name": "English for IT Professionals",
+        "thumbnail": "https://knews.kathimerini.com.cy/assets/modules/wnp/articles/201901/2576/images/b_professional_english_2018b.jpg",
+        "shortDes": "Key vocabulary and grammar to upgrade your IT English",
+        "price": 29.99,
+        "rating": 4.5,
+        "createdBy": [
+          "Olga Tomilova",
+          "Lilly Balaban"
+        ],
+        "student": "6,304",
+        "duration": 3.5,
+        "skillLevel": "Intermediate",
+        "lectures": 34
+      },
+      {
+        "id": 4,
+        "name": "Technical English for Beginners",
+        "thumbnail": "https://tenneyschool.com/wp-content/uploads/2017/10/student-chemistry.jpg",
+        "shortDes": "Grease the language wheels and get talking tech with this comprehensive beginner course for non-native English speakers.",
+        "price": 33.99,
+        "rating": 4.6,
+        "createdBy": [
+          "Jacqueline Seidel",
+          "Anja Pleul"
+        ],
+        "student": "5,235",
+        "duration": 2.5,
+        "skillLevel": "Beginner",
+        "lectures": 32
+      },
+      {
+        "id": 5,
+        "name": "Speak English With Confidence",
+        "thumbnail": "https://abcedu.online/uploads/video-123/Curs-EN-Engleza.jpg",
+        "shortDes": "Improve your English Speaking skills, learn new vocabulary and start speaking about common, conversational topics.",
+        "price": 13.99,
+        "rating": 4.6,
+        "createdBy": [
+          "Charles Cornelius",
+          "MA",
+          "CertEd"
+        ],
+        "student": "5,235",
+        "duration": 7,
+        "skillLevel": "Intermediate",
+        "lectures": 131
+      },
+      {
+        "id": 6,
+        "name": "The Complete English Grammar Course 2021",
+        "thumbnail": "https://cdn01.alison-static.net/courses/183/alison_courseware_intro_183.jpg",
+        "shortDes": "Largest English Grammar Course. Comes with bonus English punctuation course. Full English Grammar pdf/ebook Included.",
+        "price": 19.99,
+        "rating": 4.5,
+        "createdBy": [
+          "Langpill"
+        ],
+        "student": "17,991",
+        "duration": 20,
+        "skillLevel": "Advanced",
+        "lectures": 397
+      },
+      {
+        "id": 7,
+        "name": "English Conversation - Improve Your English Speaking Skills",
+        "thumbnail": "https://img.freepik.com/free-vector/english-course-online-learning-open-laptop-with-headphones-great-britain-flag-display_168129-628.jpg?size=626&ext=jpg",
+        "shortDes": "English Conversation For Everyone - Spoken English Course - Advanced English Speaking - Day to Day English Conversation",
+        "price": 19.99,
+        "rating": 4.4,
+        "createdBy": [
+          "Shervin House"
+        ],
+        "student": "14,314",
+        "duration": 4,
+        "skillLevel": "All Levels",
+        "lectures": 47
+      },
+      {
+        "id": 8,
+        "name": "Learn How to Speak English Fluently - Spoken English Mastery",
+        "thumbnail": "https://www.englishcollege.com/sites/default/files/field/image/shutterstock_430102291.jpg",
+        "shortDes": "Improve Spoken English Easily, Develop Communication Skills & Vocabulary - English Speaking Skills Course Masterclass",
+        "price": 24.99,
+        "rating": 4.2,
+        "createdBy": [
+          "Yogesh vermani"
+        ],
+        "student": "2,147",
+        "duration": 4,
+        "skillLevel": "Beginner",
+        "lectures": 190
+      },
+      {
+        "id": 9,
+        "name": "English Grammar For IELTS",
+        "thumbnail": "https://media.baamboozle.com/uploads/images/57116/1620670908_51188_url.jpeg",
+        "shortDes": "English Grammar for IELTS,basic English grammar,English tenses,basic English writing,English grammar,English practice",
+        "price": 14.99,
+        "rating": 4.5,
+        "createdBy": [
+          "Zaki Badr"
+        ],
+        "student": "1,626",
+        "duration": 7,
+        "skillLevel": "Beginner",
+        "lectures": 87
+      },
+      {
+        "id": 10,
+        "name": "Advanced English Grammar: A Comprehensive Guide",
+        "thumbnail": "https://freecoursesites.com/wp-content/uploads/2019/09/Advanced-English-Grammar-Course-TOEFL-and-IELTS-Learn-English.jpg",
+        "shortDes": "A course designed to provide learners of English with the advanced grammar skills necessary for professional success.",
+        "price": 14.99,
+        "rating": 4.5,
+        "createdBy": [
+          "Jake Wolinsky"
+        ],
+        "student": "5,762",
+        "duration": 6.5,
+        "skillLevel": "Advanced",
+        "lectures": 51
+      },
+      {
+        "id": 11,
+        "name": "Pass your job interview in English : Get your dream job!",
+        "thumbnail": "https://cambridgeinstitute.co.in/wp-content/uploads/2021/03/english-img-23.jpg",
+        "shortDes": "Easy to understand techniques and answers for your job interview in English: Complete guide for job interview questions",
+        "price": 14.99,
+        "rating": 4.6,
+        "createdBy": [
+          "Terry Mc Gonigle",
+          "Gabriel Wallance"
+        ],
+        "student": "9,729",
+        "duration": 3.5,
+        "skillLevel": "Advanced",
+        "lectures": 57
+      },
+      {
+        "id": 12,
+        "name": "Basic English Writing",
+        "thumbnail": "https://content3.jdmagicbox.com/comp/gandhidham/v4/9999p2836.2836.170930121532.l4v4/catalogue/alpha-coaching-classes-gandhidham-sector-10-gandhidham-tutorials-0cgouykijv.jpg",
+        "shortDes": "Learn to write with confidence using well constructed sentences and paragraphs to convey your message more effectively.",
+        "price": 17.99,
+        "rating": 4.6,
+        "createdBy": [
+          "Ronald Johnson"
+        ],
+        "student": "1,376",
+        "duration": 3,
+        "skillLevel": "Intermediate",
+        "lectures": 20
+      },
+      {
+        "id": 13,
+        "name": "Clear English Pronunciation",
+        "thumbnail": "https://www.internationalstudents.ie/sites/default/files/styles/traditional_television/public/media/images/2018-06/shutterstock_602226047.jpg",
+        "shortDes": "Master English sounds and speak English clearly.",
+        "price": 18.99,
+        "rating": 4.8,
+        "createdBy": [
+          "Andrea Giordano"
+        ],
+        "student": "2,107",
+        "duration": 4.5,
+        "skillLevel": "Intermediate",
+        "lectures": 25
+      },
+      {
+        "id": 14,
+        "name": "Fundamentals of English Grammar | Beginner to Intermediate",
+        "thumbnail": "https://mitlcampus.lk/wp-content/uploads/2021/01/335-Complete-English-Course-Beginner-Level.jpg",
+        "shortDes": "Strengthen your English grammar knowledge through bite-sized lessons designed to make learning grammar easy.",
+        "price": 28.99,
+        "rating": 4.6,
+        "createdBy": [
+          "Keehwan Kim"
+        ],
+        "student": "14,804",
+        "duration": 7,
+        "skillLevel": "Beginner",
+        "lectures": 125
+      },
+      {
+        "id": 15,
+        "name": "Complete English Mega Course For All Levels",
+        "thumbnail": "https://vietnaminsider.vn/wp-content/uploads/2019/03/cac-phuong-phap-hoc-tieng-anh-noi-tieng.png",
+        "shortDes": "76+ Hours of English Lecture for Beginner, Intermediate, expert, and Businessperson",
+        "price": 28.99,
+        "rating": 4.5,
+        "createdBy": [
+          "Linguistic Genius"
+        ],
+        "student": "14,804",
+        "duration": 77.5,
+        "skillLevel": "Advanced",
+        "lectures": 350
+      }
+    ],
+    "teachers": [
+      {
+        "id": 1,
+        "name": "April Alvarez",
+        "image": "https://randomuser.me/api/portraits/women/8.jpg",
+        "designation": "Professor in English",
+        "phone": "(729)-085-9362",
+        "address": "5953 E Sandy Lake Rd"
+      },
+      {
+        "id": 2,
+        "name": "Randy Jackson",
+        "image": "https://randomuser.me/api/portraits/men/10.jpg",
+        "designation": "BA in English",
+        "phone": "(926)-500-2342",
+        "address": "4014 Valley View Ln"
+      },
+      {
+        "id": 3,
+        "name": "Alvin Steeves",
+        "image": "https://randomuser.me/api/portraits/men/74.jpg",
+        "designation": "Professor in English",
+        "phone": "(291)-914-4863",
+        "address": "2853 Bollinger Rd"
+      },
+      {
+        "id": 4,
+        "name": "Leon Jennings",
+        "image": "https://randomuser.me/api/portraits/men/9.jpg",
+        "designation": "Professor in English",
+        "phone": "(545)-590-1711",
+        "address": "9009 Hunters Creek Dr"
+      },
+      {
+        "id": 5,
+        "name": "Rebecca Davidson",
+        "image": "https://randomuser.me/api/portraits/women/12.jpg",
+        "designation": "Professor in English",
+        "phone": "(003)-473-6136",
+        "address": "3652 Hogan St"
+      },
+      {
+        "id": 6,
+        "name": "Carrie Rhodes",
+        "image": "https://randomuser.me/api/portraits/women/71.jpg",
+        "designation": "Professor in English",
+        "phone": "(042)-565-6337",
+        "address": "6213 Hillcrest Rd"
+      }
+    ],
+    "students": [
+      {
+        "id": 1,
+        "name": "Sophie Graham",
+        "image": "https://randomuser.me/api/portraits/women/63.jpg",
+        "feedback": "This course is very useful to improve my English skill. Especially, Words in a sentence are grouped by meaning and then it is pronounced. I think it is very good to improve my English skills.",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Minnie Clark",
+        "image": "https://randomuser.me/api/portraits/women/43.jpg",
+        "feedback": "I just finished this course, and I think it's very helpful for people who wants to improve their speaking skills. I can recomommend for everyone. I'm planning to continue with intermediate ti advance course. I wish all learners success.",
+        "rating": 4
+      },
+      {
+        "id": 3,
+        "name": "Wyatt Vasquez",
+        "image": "https://randomuser.me/api/portraits/men/98.jpg",
+        "feedback": "This course is great for beginners, very intensive and interactive. You can use the target language in a given context and practice it many times.",
+        "rating": 4.6
+      }
+    ]
+  }

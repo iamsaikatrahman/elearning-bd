@@ -1,0 +1,21 @@
+.info-container h5 {
+  font-weight: 700;
+}
+.info-container p {
+  font-weight: 600;
+}
+.stay-connected-icon {
+  background-color: #66cfa9;
+  padding: 1rem;
+  border-radius: 50%;
+  color: #fff;
+  box-shadow: 0px 5px 6px 2px lightblue;
+}
+
+.message-input {
+  outline: none;
+  border: 2px solid #197bc6;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 1rem 0;
+}

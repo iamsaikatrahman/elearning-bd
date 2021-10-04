@@ -1,0 +1,15 @@
+.teacher-card {
+  border-color: transparent;
+}
+
+.teacher-image {
+  width: 150px;
+  height: 150px !important;
+  border-radius: 50%;
+  margin: 16px auto;
+}
+
+.social-icon {
+  font-size: 1.8rem;
+  color: #385f9d;
+}

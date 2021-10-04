@@ -1,0 +1,24 @@
+.notFound-container {
+  padding-top: 100px;
+}
+
+.not-found-img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.notFound-container h3 {
+  margin-bottom: 50px;
+}
+
+@media (min-width: 1280px) {
+  .notFound-container {
+    padding-top: 30px;
+  }
+  .not-found-img {
+    width: 500px;
+    height: 500px;
+    object-fit: contain;
+  }
+}

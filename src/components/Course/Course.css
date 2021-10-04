@@ -1,0 +1,41 @@
+.card {
+  font-weight: 600;
+}
+.card-img-top {
+  height: 180px;
+  object-fit: cover;
+  object-position: center;
+}
+.card-title {
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+.skill-intermediate {
+  background-color: #ed0f7e;
+  color: #fff;
+  border-radius: 5px;
+  padding: 0 5px;
+}
+.skill-all {
+  background-color: #197bc6;
+  color: #fff;
+  border-radius: 5px;
+  padding: 0 5px;
+}
+.skill-beginner {
+  background-color: #fbaf32;
+  color: #fff;
+  border-radius: 5px;
+  padding: 0 5px;
+}
+.skill-advanced {
+  background-color: #fb3232;
+  color: #fff;
+  border-radius: 5px;
+  padding: 0 5px;
+}
+.rating-icon {
+  color: #fdaf22;
+  font-size: 1.2rem;
+}
