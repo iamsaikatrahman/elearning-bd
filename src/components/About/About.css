@@ -1,0 +1,61 @@
+.student-img-full-container {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.first-container {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background: #197bc6;
+  border-radius: 50%;
+  z-index: 89;
+  box-shadow: -4px -3px 6px 0px #e4fcff;
+}
+.image-container {
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  width: 150px;
+  height: 150px;
+  background: red;
+  border-top: 10px solid #197bc6;
+  border-radius: 50%;
+  border-right: 8px solid #197bc6;
+  border-left: 3px solid #197bc6;
+  z-index: 99;
+  box-shadow: 0px 5px 8px 0 lightblue;
+  object-fit: cover;
+  object-position: center;
+}
+
+.last-container {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  background: white;
+  border-radius: 50%;
+  right: 10%;
+  bottom: 10%;
+  box-shadow: 0px 6px 10px 0 lightgrey;
+}
+
+.testimonial-carousle {
+  border-radius: 15px;
+  box-shadow: 0px 5px 10px 2px lightgrey;
+}
+
+.carousle-bg {
+  background: url("../../images/feedback-bg.jpg");
+  padding: 2rem;
+  border-radius: 15px;
+  background-repeat: no-repeat;
+  background-position: right top;
+  /* background-size: fill; */
+}
+
+.carousel-indicators [data-bs-target] {
+  background-color: #212529;
+}

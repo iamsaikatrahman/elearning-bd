@@ -16,7 +16,7 @@ const Header = () => {
                 >
                     <NavLink className="nav-link" activeStyle={{color: '#368CCD'}} to="/home">Home</NavLink>
                     <NavLink className="nav-link" activeStyle={{color: '#368CCD'}} to="/about">About Us</NavLink>
-                    <NavLink className="nav-link" activeStyle={{color: '#368CCD'}} to="/services">Servicess</NavLink>
+                    <NavLink className="nav-link" activeStyle={{color: '#368CCD'}} to="/services">Services</NavLink>
                     <NavLink className="nav-link" activeStyle={{color: '#368CCD'}} to="/contact">Contact Us</NavLink>
                 </Nav>
                 </Navbar.Collapse>

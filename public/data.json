@@ -292,14 +292,14 @@
       {
         "id": 2,
         "name": "Minnie Clark",
-        "image": "https://randomuser.me/api/portraits/women/43.jpg",
+        "image": "https://randomuser.me/api/portraits/women/26.jpg",
         "feedback": "I just finished this course, and I think it's very helpful for people who wants to improve their speaking skills. I can recomommend for everyone. I'm planning to continue with intermediate ti advance course. I wish all learners success.",
         "rating": 4
       },
       {
         "id": 3,
         "name": "Wyatt Vasquez",
-        "image": "https://randomuser.me/api/portraits/men/98.jpg",
+        "image": "https://randomuser.me/api/portraits/men/11.jpg",
         "feedback": "This course is great for beginners, very intensive and interactive. You can use the target language in a given context and practice it many times.",
         "rating": 4.6
       }
