@@ -10,6 +10,8 @@ This is an English learning website. Here you can learn English from different t
 <li>You can see why choose us</li>
 <li>You can see better way to learning any languages</li>
 <li>You can see our all teachers information</li>
+<li>You can see our students feedback</li>
+<li>You can see our price package</li>
 <li>You can contact us through our email and contact number</li>
 <li>Here you can feel React Routing facilities</li>
 <li>If you go wrong route then show page not found message</li>
@@ -17,7 +19,6 @@ This is an English learning website. Here you can learn English from different t
 # Live Site
 
 You can see our live site <a href="https://elearning-bd.netlify.app/">English Learning</a>
-
 
 # Technologies
 
